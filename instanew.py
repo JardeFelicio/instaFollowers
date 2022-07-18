@@ -16,7 +16,7 @@ def userAccount():
 def instaFollow():
     #Carrega a lib e faz login com a conta desejada
     L = instaloader.Instaloader()
-    L.login('lulu_sousaff', '85029639')
+    L.login('USERNAME', 'PASSWORD')
 
 
 
